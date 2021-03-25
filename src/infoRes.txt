@@ -1,0 +1,19 @@
+
+  // A través de un JSON.
+
+  // CREATE
+  // READ
+  // UPDATE
+  // DELETE
+
+  // Metodos
+  // POST - Crear un nuevo 'resource'
+  // GET - Obtener uno o varios 'resources'
+  // DELETE - Eliminar un 'resource'
+  // PUT / PATCH - Actualizar el 'resource'
+
+  // Permite separar cliente de servidor
+  // Nuestro cliente sería React
+  // El servidor podría ser NodeJS, Python, PHP, GO, Erlang
+
+  // La depuración es más sencilla
